@@ -1,4 +1,4 @@
-package com.synechron.api.apitraining.post;
+package com.synechron.api.apitraining.delete;
 
 import static io.restassured.RestAssured.given;
 
